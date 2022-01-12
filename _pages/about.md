@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 ## Research Interest
-I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques. **(on job market, 2022)**
+I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques.
 
 
 ## Education
 **Beijing University of Posts and Telecommunications, Beijing, China**
-- Ph.D. Candidate, [CS](https://cse.ust.hk/), advised by [Prof. Shangguang Wang](http://www.sguangwang.com/), Sep. 2020 -- Aug. 2025 (expected)
+- Ph.D. Candidate, [CS](https://scs.bupt.edu.cn/), advised by [Prof. Shangguang Wang](http://www.sguangwang.com/), Sep. 2020 -- Aug. 2025 (expected)
 
 **Beijing University of Posts and Telecommunications, Beijing, China**
 - Bachelor of Engineering, Automation, Sep. 2016 -- Jun. 2020
 
 
 ## Publications
-- **From cloud to edge: a first look at public edge platforms** [[paper]](https://xumengwei.github.io/files/IMC21-edge-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
+- **From cloud to edge: a first look at public edge platforms** [[paper]](https://arxiv.org/abs/2109.03395)[[slides]](https://xumengwei.github.io/files/IMC21-edge-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
   - Mengwei Xu, Zhe Fu, Xiao Ma, Li Zhang, **Yanan Li**, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu.
   - Proceedings of the 21st ACM Internet Measurement Conference. 2021. ([**IMC'21**](https://conferences.sigcomm.org/imc/2021/)).
 
