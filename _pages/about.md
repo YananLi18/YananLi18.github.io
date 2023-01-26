@@ -21,6 +21,9 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 
 ## Publications
+- **ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning** [[paper]]()[[slides]]() [[data]]()
+  - **Yanan Li**, Haitao Yuan, Zhe Fu, Xiao Ma, Mengwei Xu, Shangguang Wang.
+  - Proceedings of the ACM Web Conference. 2023. ([**WWW'23**](https://www2023.thewebconf.org/)).
 - **From cloud to edge: a first look at public edge platforms** [[paper]](https://arxiv.org/abs/2109.03395)[[slides]](https://xumengwei.github.io/files/IMC21-edge-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
   - Mengwei Xu, Zhe Fu, Xiao Ma, Li Zhang, **Yanan Li**, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu.
   - Proceedings of the 21st ACM Internet Measurement Conference. 2021. ([**IMC'21**](https://conferences.sigcomm.org/imc/2021/)).
