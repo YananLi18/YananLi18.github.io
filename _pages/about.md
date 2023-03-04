@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## Research Interest
-I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques.
+I am broadly interested in <u>cloud/edge computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques.
 
 
 ## Education
 **Beijing University of Posts and Telecommunications, Beijing, China**
-- Ph.D. Candidate, [CS](https://scs.bupt.edu.cn/), advised by [Prof. Shangguang Wang](http://www.sguangwang.com/), Sep. 2020 -- Aug. 2025 (expected)
+- Ph.D. Candidate, [CS](https://scs.bupt.edu.cn/), Sep. 2020 -- Aug. 2025 (expected)
 
 **Beijing University of Posts and Telecommunications, Beijing, China**
 - Bachelor of Engineering, Automation, Sep. 2016 -- Jun. 2020
