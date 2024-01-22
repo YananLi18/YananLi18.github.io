@@ -13,18 +13,18 @@ I am broadly interested in <u>machine learning for cloud/edge/mobile computing</
 
 
 ## Education
-**Beijing University of Posts and Telecommunications, Beijing, China**
+**Beijing University of Posts and Telecommunications, Beijing, China** <br>
 **State Key Laboratory of Networking and Switching Technology**
 - Ph.D. Candidate, [CS](https://scs.bupt.edu.cn/), Sep. 2020 -- Aug. 2025 (expected)
 - Co-advised by Prof. [Shangguang Wang](https://scholar.google.com/citations?user=CSrn-jIAAAAJ&hl=zh-CN) and Prof. [Mengwei Xu](https://xumengwei.github.io/index.html)
 
-**Beijing University of Posts and Telecommunications, Beijing, China**
+**Beijing University of Posts and Telecommunications, Beijing, China** <br>
 **Ye-PeiDa Honors College (Top 1% of 3600 undergraduates)**
 - Bachelor of Engineering, Automation, Sep. 2016 -- Jun. 2020
 - Overall GPA: 93.12/100 Rank: 1/44
 
 ## Publications
-- - **Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet** [[paper]](https://xumengwei.github.io/files/SIGMOD24-EdgeQoE.pdf)[[data]](https://github.com/YananLi18/SNESet)
+- **Demystifying the QoS and QoE of Edge-hosted Video Streaming Applications in the Wild with SNESet** [[paper]](https://xumengwei.github.io/files/SIGMOD24-EdgeQoE.pdf)[[data]](https://github.com/YananLi18/SNESet)
   - **Yanan Li**, Guangqing Deng, Changming Bai, Jingyu Yang, Gang Wang, Hao Zhang, Jin Bai, Haitao Yuan, Mengwei Xu, Shangguang Wang
   - Proceedings of the International Conference on Management of Data (SIGMOD), 2024
 - **ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning** [[paper]](https://xumengwei.github.io/files/WWW23-ELASTIC.pdf)[[slides]](https://xumengwei.github.io/files/WWW23-ELASTIC-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
