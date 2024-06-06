@@ -30,6 +30,9 @@ I am broadly interested in <u>machine learning for cloud/edge/mobile computing</
 - **ELASTIC: Edge Workload Forecasting based on Collaborative Cloud-Edge Deep Learning** [[paper]](https://xumengwei.github.io/files/WWW23-ELASTIC.pdf)[[slides]](https://xumengwei.github.io/files/WWW23-ELASTIC-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
   - **Yanan Li**, Haitao Yuan, Zhe Fu, Xiao Ma, Mengwei Xu, Shangguang Wang
   - Proceedings of the ACM Web Conference (WWW), 2023, Acceptance rate = 19.2% (365/1900)
+- **From Promises to Practice: Evaluating the Private Browsing Modes of Android Browser Apps** [[paper]](https://dl.acm.org/doi/10.1145/3589334.3645320)
+  - Xiaoyin Liu, Wenzhi Li, Qinsheng Hou, Shishuai Yang, Lingyun Ying, Wenrui Diao, **Yanan Li**, Shanqing Guo, Hai-Xin Duan
+  - Proceedings of the ACM Web Conference (WWW), 2024, Acceptance rate = 20.2%
 - **From cloud to edge: a first look at public edge platforms** [[paper]](https://arxiv.org/abs/2109.03395)[[slides]](https://xumengwei.github.io/files/IMC21-edge-slides.pdf) [[data]](https://github.com/xumengwei/EdgeWorkloadsTraces)
   - Mengwei Xu, Zhe Fu, Xiao Ma, Li Zhang, **Yanan Li**, Feng Qian, Shangguang Wang, Ke Li, Jingyu Yang, Xuanzhe Liu
   - Proceedings of the 21st ACM Internet Measurement Conference (IMC), 2021, Acceptance rate = 28.1% (55/196)
